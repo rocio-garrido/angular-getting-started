@@ -2,7 +2,7 @@ import { Component, OnChanges } from "@angular/core";
 
 @Component({
     selector: 'pm-star',
-    template: './star.component.html',
+    templateUrl: './star.component.html',
     styleUrls: ['./star.component.css']
 })
 
